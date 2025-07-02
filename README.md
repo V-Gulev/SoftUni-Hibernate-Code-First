@@ -1,1 +1,1 @@
-Hibernate Exercises
+First Code First Hibernate Project
