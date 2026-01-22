@@ -1,1 +1,1 @@
-Hibernate Exercises
+SoftUni Hibernate Exercises
